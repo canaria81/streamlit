@@ -2,8 +2,8 @@
 
 import streamlit as st
 
-# 웹 대시보드 프레임워크인, 스트림릿은
-# main() 함수가 있어야 함
+# 웹 대시보드 프레임워크인, 스트림릿은 main() 함수가 있어야 함
+
 def main() :
     st.title('테스트 대시보드')
     st.title('개발 프로젝트')
