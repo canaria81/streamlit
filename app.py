@@ -9,5 +9,6 @@ def main() :
     st.title('개발 프로젝트')
 
     # st 화면
-if __name__== '__name__' :
+if __name__== '__main__' :
+   # print(__name__)
     main()

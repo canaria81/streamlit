@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 
-# plotly 라이브러리
+# plotly 라이브러리 
 import plotly.express as px
 
 # altair 라이브러리
@@ -57,4 +57,4 @@ def main():
     fig7 = px.bar(df4,'lang','sum',title='각 언어별 파이차트')
 
 if __name__ == '__main__' :
-    main()
+    main()    
